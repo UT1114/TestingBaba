@@ -1,0 +1,15 @@
+fullname=Avdehesh
+email=Avdhesh@gmail.com
+fAddress=Ghaziabad Agra India
+PAddress=Yamuna Vihar Delhi Bombay India
+expectedAlerttext=This alert appeared after 5 seconds
+URL=https://testingbaba.com/
+pageLoadTime=30
+implecitTime=30
+screenshot.type=.jpg
+excel.data.path=C:\\Users\\23135201\\eclipse-workspace\\TestingBaba\\Automation Test Data.xlsx
+dynamicWait=20
+alertWait=10
+ng.db.username=NZ_KYC
+ng.db.password=nz_kyc
+ng.db.url=jdbc:oracle:thin:@//172.24.35.168:1527/KYCNG
